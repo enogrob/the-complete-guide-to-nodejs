@@ -24,11 +24,11 @@ Using Node.js and npm
 Section: 2
 Using the Node.js Module System
 [x] 6. require() 9:53
-[ ] 7. Module Exports 9:03
-[ ] 8. Package.json Walkthrough 5:33
-[ ] 9. Using package.json to Manage Dependencies 7:17
-[ ] 10. Using npm run 6:50
-[ ] 11. Creating Our Own Package 7:20
+[x] 7. Module Exports 9:03
+[x] 8. Package.json Walkthrough 5:33
+[x] 9. Using package.json to Manage Dependencies 7:17
+[x] 10. Using npm run 6:50
+[x] 11. Creating Our Own Package 7:20
 
 Section: 3
 Useful Node.js Paradigms
