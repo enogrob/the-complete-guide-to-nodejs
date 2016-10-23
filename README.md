@@ -15,15 +15,15 @@ Learn everything you need to about Node.js.
 ```
 Section: 1
 Using Node.js and npm
-[ ] 1. The Course Overview 2:30
-[ ] 2. Installing Node.js 7:05
-[ ] 3. Node.js REPL 5:24
-[ ] 4. Node.js is JavaScript 7:00
-[ ] 5. Installing a Package with npm 6:57
+[x] 1. The Course Overview 2:30
+[x] 2. Installing Node.js 7:05
+[x] 3. Node.js REPL 5:24
+[x] 4. Node.js is JavaScript 7:00
+[x] 5. Installing a Package with npm 6:57
 
 Section: 2
 Using the Node.js Module System
-[ ] 6. require() 9:53
+[x] 6. require() 9:53
 [ ] 7. Module Exports 9:03
 [ ] 8. Package.json Walkthrough 5:33
 [ ] 9. Using package.json to Manage Dependencies 7:17
@@ -75,5 +75,3 @@ Passport in Express
 [ ] 37. Passport and Authentication 9:32
 [ ] 38. Where to Go from Here 5:50
 ```
-
-
