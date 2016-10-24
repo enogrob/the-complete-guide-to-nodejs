@@ -4,7 +4,7 @@ var fileA;
 var fileS;
 
 fileS = fs.readFileSync('test.txt', 'utf8');
-//console.log(fileS);
+// console.log(fileS);
 
 fs.readFile('test.txt', 'utf8', (err, data) => {
   fileA = data;
