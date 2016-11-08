@@ -32,6 +32,6 @@ function multipleCallbacksError(firstFile, callback){
   });
 }
 
-//multipleCallbacks('networkcall', (data) => console.log(data));
+multipleCallbacks('networkcall', (data) => console.log(data));
 //multipleCallbacks('nonexistent', (data) => console.log(err));
-multipleCallbacksError('nonexistent', (err, data) => console.log(err));
+// multipleCallbacksError('nonexistent', (err, data) => console.log(err));
