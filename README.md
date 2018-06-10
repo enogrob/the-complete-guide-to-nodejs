@@ -11,6 +11,7 @@ Solution Integrator Experienced - Certified by Ericsson
 
 Learn everything you need to about Node.js.
 
+[Homepage](https://www.udemy.com/the-complete-guide-to-nodejs/learn/v4/)
 ## Topics
 ```
 Section: 1
@@ -23,20 +24,20 @@ Using Node.js and npm
 
 Section: 2
 Using the Node.js Module System
-[x] 6. require() 9:53
-[x] 7. Module Exports 9:03
-[x] 8. Package.json Walkthrough 5:33
-[x] 9. Using package.json to Manage Dependencies 7:17
-[x] 10. Using npm run 6:50
-[x] 11. Creating Our Own Package 7:20
+[ ] 6. require() 9:53
+[ ] 7. Module Exports 9:03
+[ ] 8. Package.json Walkthrough 5:33
+[ ] 9. Using package.json to Manage Dependencies 7:17
+[ ] 10. Using npm run 6:50
+[ ] 11. Creating Our Own Package 7:20
 
 Section: 3
 Useful Node.js Paradigms
-[x] 12. Node.js is Asynchronous 7:06
-[x] 13. The Event Loop 7:52
-[x] 14. Callback Pattern 7:54
-[x] 15. Promises Instead of Callbacks 8:32
-[x] 16. Error Handling 6:56
+[ ] 12. Node.js is Asynchronous 7:06
+[ ] 13. The Event Loop 7:52
+[ ] 14. Callback Pattern 7:54
+[ ] 15. Promises Instead of Callbacks 8:32
+[ ] 16. Error Handling 6:56
 
 Section: 4
 Node.js Events
