@@ -33,7 +33,7 @@ Using the Node.js Module System
 
 Section: 3
 Useful Node.js Paradigms
-[ ] 12. Node.js is Asynchronous 7:06
+[x] 12. Node.js is Asynchronous 7:06
 [ ] 13. The Event Loop 7:52
 [ ] 14. Callback Pattern 7:54
 [ ] 15. Promises Instead of Callbacks 8:32
